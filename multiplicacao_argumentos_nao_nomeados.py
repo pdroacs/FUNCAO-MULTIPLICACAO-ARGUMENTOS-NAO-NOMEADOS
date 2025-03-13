@@ -9,7 +9,7 @@
 def multiplicacao(*args):
     total = 1
     for num in args:
-        total *= num  # total = total * num -> mesma coisa
+        total *= num
     return total
 
 
